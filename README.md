@@ -33,6 +33,9 @@ Summary of [Findings](https://raw.githack.com/fyasdani/sdi-investigation/main/in
     scale.
 -   The countries in between are the best at sustainable development.
     They live relatively efficiently and within their means.
+
+![barplot comparing sustainable development of countries](sustainable_development.png)
+
 -   The function of GNIpc is asymptotic as it pertains to human
     development.
     -   Thus, a country can be top-tier in terms of development, without
